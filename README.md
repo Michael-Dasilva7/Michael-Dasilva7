@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
   - Software Development
   - Keeping up to date with, and Learning New technologies
+  - https://www.reddit.com/r/gamedev/
   - Raspberry Pi
   - Gaming
   - Guitar
