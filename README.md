@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Michael-Dasilva7
 - 👀 I’m interested in ...
-  - programming
+  - Software Development
+  - Keeping up to date with, and Learning New technologies
   - Raspberry Pi
   - Gaming
   - Guitar
